@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumanth Hegde!
-- 👀 I’m a Data Science intern at C3!
+- 👀 I’m a Data Science intern at C3, working on the Generative AI team!
 - 🌱 I’m currently learning about the V8 platform :ok_man:
 
 <!---
